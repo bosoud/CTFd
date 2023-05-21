@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster as build
+FROM python:3.12-slim-buster as build
 
 WORKDIR /opt/CTFd
 
